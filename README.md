@@ -22,6 +22,8 @@ The pipeline integrates the following components to bridge the gap between local
 5. **Consumer & Processing:** **PySpark Structured Streaming** running on Microsoft Fabric.
 
 6. **Storage:** Processed data stored in a **Lakehouse (Delta Table)** for analytical use.
+<img width="1918" height="801" alt="image" src="https://github.com/user-attachments/assets/4d23f4a3-7e44-43d1-a051-547f33907f99" />
+
 
 ---
 
